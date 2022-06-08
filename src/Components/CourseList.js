@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import courseData from "./data";
 import "./CourseList.css";
-import Filter from "./Filter";
 function CourseList({ searchInput }) {
   console.log(searchInput);
   console.log();
