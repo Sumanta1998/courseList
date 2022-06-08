@@ -16,7 +16,7 @@ function CourseList({ searchInput }) {
 
   const filterBy = (filterVal) => {
     let prevData = courseData;
-    let filterData = prevData.filter((el) => el.category == filterVal);
+    let filterData = prevData.filter((el) => el.category === filterVal);
     setData(filterData);
   };
   const sortBy = () => {
