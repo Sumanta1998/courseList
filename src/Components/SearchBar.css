@@ -1,0 +1,29 @@
+.searchBar > form > input {
+  background: transparent;
+  outline-width: 0;
+  color: black;
+  border: none;
+  padding: 8px;
+  width: 100%;
+  font-size: large;
+}
+.searchBar {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  color: rgb(24, 23, 23);
+  /* background-color: #dadee6; */
+  border-radius: 10px;
+  border: 1px solid gray;
+  padding: 10px;
+  /* margin: 20px; */
+}
+.searchButton {
+  display: none;
+}
+
+@media screen and (max-width: 646px) {
+  .searchBar > form > input {
+    padding: 5px;
+  }
+}
