@@ -88,6 +88,95 @@ const data = [
     image: "https://img-c.udemycdn.com/course/240x135/2759464_110d_6.jpg",
     author: "Milan",
   },
+  {
+    id: 10,
+    title: "Practical C++: Learn C++ Basics Step by Step",
+    desdcription:
+      "Get Started Quickly with C++: Only Hands-on Lessons and Practice to Master C++ Basics.",
+    category: "cpp",
+    price: 935,
+    image: "https://img-c.udemycdn.com/course/240x135/4193382_48d7.jpg",
+    author: "Edouard",
+  },
+  {
+    id: 11,
+    title: "Advanced C++ Programming Training Course",
+    desdcription:
+      "Take your C++ Programming Training Course Will Take Your Skills To The Next Level.",
+    category: "cpp",
+    price: 865,
+    image: "https://img-c.udemycdn.com/course/240x135/22750_d8c2_9.jpg",
+    author: "Infinite Skils",
+  },
+  {
+    id: 12,
+    title: "Learn Programming in C++ with the Power of Animation",
+    desdcription:
+      "A Programming Course in C++ language, great for beginners, that will teach you C++ coding from scratch using Animation.",
+    category: "cpp",
+    price: 973,
+    image: "https://img-c.udemycdn.com/course/240x135/1336394_7415.jpg",
+    author: "Infinite Skils",
+  },
+  {
+    id: 13,
+    title: "Modern JavaScript From The Beginning",
+    desdcription:
+      "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+    category: "javascript",
+    price: 455,
+    image: "https://img-c.udemycdn.com/course/240x135/1463348_52a4_2.jpg",
+    author: "Brad Taversy",
+  },
+  {
+    id: 14,
+    title: "Javascript Tutorial and Projects Course (2022)",
+    desdcription: "Learn Javascript by Building 30+ Interesting Projects",
+    category: "javascript",
+    price: 981,
+    image: "https://img-c.udemycdn.com/course/240x135/1518026_77fb_4.jpg",
+    author: "John Simgla.",
+  },
+  {
+    id: 15,
+    title: "The Modern JavaScript Bootcamp",
+    desdcription:
+      "Learn JavaScript by building real-world apps. Includes 3 real-world projects, 80 programming challenges, and ES6/ES7!",
+    category: "javascript",
+    price: 1342,
+    image: "https://img-c.udemycdn.com/course/240x135/1470810_a8b0.jpg",
+    author: "Jonas Sc.",
+  },
+  {
+    id: 16,
+    title: "Python for Absolute Beginners",
+    desdcription:
+      "Learn Python programming from scratch with hands-on exercises in this Python course!",
+    category: "python",
+    price: 907,
+    image: "https://img-c.udemycdn.com/course/240x135/836376_8b97_4.jpg",
+    author: "Green",
+  },
+  {
+    id: 17,
+    title: "The Python Mega Course: Build 10 Real World Applications",
+    desdcription:
+      "Become a Python programmer by learning how to build any Python program from scratch, GUIs, web apps, APIs, and more.",
+    category: "python",
+    price: 986,
+    image: "https://img-c.udemycdn.com/course/240x135/692188_9da7_27.jpg",
+    author: "Ardit",
+  },
+  {
+    id: 18,
+    title: "Python and Django Full Stack Web Developer Bootcamp",
+    desdcription:
+      "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+    category: "python",
+    price: 1342,
+    image: "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
+    author: "Jose",
+  },
 ];
 
 export default data;

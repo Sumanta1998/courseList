@@ -4,12 +4,13 @@
   color: black;
   border: none;
   padding: 8px;
-  width: 100%;
+  width: 100% !important;
   font-size: large;
 }
 .searchBar {
-  display: flex;
-  flex: 1;
+  /* display: flex; */
+  /* flex: 1; */
+  /* width: 30%; */
   align-items: center;
   color: rgb(24, 23, 23);
   /* background-color: #dadee6; */

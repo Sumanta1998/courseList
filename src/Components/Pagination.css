@@ -1,0 +1,16 @@
+.pagination > button {
+  background-color: rgb(226, 225, 225);
+  border: none;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonStyle {
+  border: 2px solid teal !important;
+}
